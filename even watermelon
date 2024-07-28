@@ -1,0 +1,5 @@
+a = int(inuput("enter the weight"))
+if a%2==0:
+  print("yes")
+else:
+print("no")
